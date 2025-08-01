@@ -1,4 +1,4 @@
-# 🤖 Automatización para Ingreso items al inventario
+# 🤖 Automatización para Ingreso de productos al inventario
 
 Este documento describe el flujo completo para automatizar la **carga de inventario** desde las facturas de proveedores al **POS** del cliente, evitando el ingreso manual.
 
