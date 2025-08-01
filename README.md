@@ -1,4 +1,4 @@
-# 🤖 Automatización Inteligente de Ingreso de Facturas al POS
+# 🤖 Automatización para Ingreso items al inventario
 
 Este documento describe el flujo completo para automatizar la **carga de inventario** desde las facturas de proveedores al **POS** del cliente, evitando el ingreso manual.
 
